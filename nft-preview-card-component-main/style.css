@@ -1,0 +1,73 @@
+body{
+    background-color: #0D1A2D;
+    max-width: 1440px;
+    font-family:cursive ;
+}
+
+div{
+    background-color:#15273F;
+    padding: 10px;
+    width: 300px;
+    height: 466px;
+    margin:auto;
+    margin-top: 150px;
+    padding-top:30px;
+    padding-bottom:40px;
+    border-radius:3%;
+    box-shadow:7px 10px 50px 15px ;
+}
+.img1{
+width:88%;
+margin-left:19px;
+margin-right:20px;
+border-radius:3%;
+}
+h1{
+    color:white;
+    text-align: center;
+    margin:7px;
+    margin-left: -10px;
+}
+p{
+    color: hsl(215, 32%, 27%);
+   
+    padding-left:20px;
+    margin-top:1px;
+}
+.ethereum{
+    margin-left:20px;
+    display:flex;
+    
+}
+h3{
+    color:#0A9BA1;
+    font-size: 16px;
+    margin-top:-4px ;
+    margin-left:5px;
+}
+
+.ethereum,.me{
+ flex-grow:0.85 ;
+}
+p{
+margin-top: -4px;
+margin-left: -9px;
+}
+.img2{
+    width: 40px;
+    background-color: antiquewhite;
+    border-radius: 80%;
+}
+.last{
+    margin-top:-35px;
+    margin-left:30px;
+}
+#y{
+    margin-left:120px; 
+    color:aliceblue;
+}
+hr{
+    border-color: hsl(215, 32%, 27%) ;
+    border-bottom:3px solid hsl(215, 32%, 27%);
+    margin-top:0;
+}
